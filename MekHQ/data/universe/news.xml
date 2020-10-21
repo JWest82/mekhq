@@ -226,10 +226,10 @@ Information veracity as described in the 25 Years of Art & Fiction of "Story Fic
 		<service>TNN</service>
 		<location>Terra</location>
 	</newsItem>
-	<newsItem><!-- ISSUE - ERROR -->
+	<newsItem>
 		<headline>Iona Light Shipyards new fighter dead in space?</headline><!-- Source: MUL online -->
 		<date>2631</date>
-		<desc><![CDATA[<p>After several years of design and testing, the <em>Rogue</em>-class JumpShip has been launched. Increasing cost and changes in design, the new aerospace fighter unveiled this year is seeing harsh criticism. Poor maneuverability and reliance on resupply are just two of the many factors that are seen as just more examples of over engineering.</p>]]></desc>
+		<desc><![CDATA[<p>Iona has released a new fighter designed specifically for the challenges of zero-G combat, the <em>Rogue</em>. With increasing cost and changes in design, the new aerospace fighter unveiled this year is seeing harsh criticism. Poor maneuverability and reliance on resupply are just two of the many factors that are currently being reported by some of the pilots and technicians.</p>]]></desc>
 		<service>TNN</service>
 		<location>Terra</location>
 	</newsItem>
